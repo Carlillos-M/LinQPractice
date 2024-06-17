@@ -1,0 +1,14 @@
+C:\Users\ialda\OneDrive\Documentos\UN CEMR\6. SEXTO TETRA\3. POO II\2do Parcial\CursoLINQ\LINQPractice\bin\Debug\net8.0\LINQPractice.exe
+C:\Users\ialda\OneDrive\Documentos\UN CEMR\6. SEXTO TETRA\3. POO II\2do Parcial\CursoLINQ\LINQPractice\bin\Debug\net8.0\LINQPractice.deps.json
+C:\Users\ialda\OneDrive\Documentos\UN CEMR\6. SEXTO TETRA\3. POO II\2do Parcial\CursoLINQ\LINQPractice\bin\Debug\net8.0\LINQPractice.runtimeconfig.json
+C:\Users\ialda\OneDrive\Documentos\UN CEMR\6. SEXTO TETRA\3. POO II\2do Parcial\CursoLINQ\LINQPractice\bin\Debug\net8.0\LINQPractice.dll
+C:\Users\ialda\OneDrive\Documentos\UN CEMR\6. SEXTO TETRA\3. POO II\2do Parcial\CursoLINQ\LINQPractice\bin\Debug\net8.0\LINQPractice.pdb
+C:\Users\ialda\OneDrive\Documentos\UN CEMR\6. SEXTO TETRA\3. POO II\2do Parcial\CursoLINQ\LINQPractice\obj\Debug\net8.0\LINQPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ialda\OneDrive\Documentos\UN CEMR\6. SEXTO TETRA\3. POO II\2do Parcial\CursoLINQ\LINQPractice\obj\Debug\net8.0\LINQPractice.AssemblyInfoInputs.cache
+C:\Users\ialda\OneDrive\Documentos\UN CEMR\6. SEXTO TETRA\3. POO II\2do Parcial\CursoLINQ\LINQPractice\obj\Debug\net8.0\LINQPractice.AssemblyInfo.cs
+C:\Users\ialda\OneDrive\Documentos\UN CEMR\6. SEXTO TETRA\3. POO II\2do Parcial\CursoLINQ\LINQPractice\obj\Debug\net8.0\LINQPractice.csproj.CoreCompileInputs.cache
+C:\Users\ialda\OneDrive\Documentos\UN CEMR\6. SEXTO TETRA\3. POO II\2do Parcial\CursoLINQ\LINQPractice\obj\Debug\net8.0\LINQPractice.dll
+C:\Users\ialda\OneDrive\Documentos\UN CEMR\6. SEXTO TETRA\3. POO II\2do Parcial\CursoLINQ\LINQPractice\obj\Debug\net8.0\refint\LINQPractice.dll
+C:\Users\ialda\OneDrive\Documentos\UN CEMR\6. SEXTO TETRA\3. POO II\2do Parcial\CursoLINQ\LINQPractice\obj\Debug\net8.0\LINQPractice.pdb
+C:\Users\ialda\OneDrive\Documentos\UN CEMR\6. SEXTO TETRA\3. POO II\2do Parcial\CursoLINQ\LINQPractice\obj\Debug\net8.0\LINQPractice.genruntimeconfig.cache
+C:\Users\ialda\OneDrive\Documentos\UN CEMR\6. SEXTO TETRA\3. POO II\2do Parcial\CursoLINQ\LINQPractice\obj\Debug\net8.0\ref\LINQPractice.dll
